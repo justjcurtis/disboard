@@ -19,7 +19,7 @@ export class BoardService {
                 if (isNaN(w)) return
                 arr.splice(i, 1)
                 result.slotCount = w
-                result.slots = new Array(w).fill().map((_, i) => ({ label: '', amps: -1, i }))
+                result.slots = new Array(w).fill().map((_, i) => ({ label: '', amps: -1, i, id: `slot_${i}` }))
             }
             catch { return }
         }
