@@ -2,7 +2,7 @@
   "short_name": "disboard",
   "name": "disboard scheduler",
   "description": "a simple util for creating distribution board schedules.",
-  "start_url": "/",
+  "start_url": "https://justjcurtis.dev/disboard",
   "display": "standalone",
   "theme_color": "#dc944c",
   "background_color": "#0f0a0f",
