@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d421452a.css",
+    "main.js": "/static/js/main.f0474c6c.js",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.d421452a.css.map": "/static/css/main.d421452a.css.map",
+    "main.f0474c6c.js.map": "/static/js/main.f0474c6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d421452a.css",
+    "static/js/main.f0474c6c.js"
+  ]
+}
